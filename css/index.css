@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.foot-main{width:auto;margin:0 auto;text-align:center;}
+.index-slide img{width:100%;}
+.newx-pics{position:relative;width:100%;overflow:hidden;}
+.newx-pics-allpic{width:80000px;overflow:hidden;}
+.newx-pics-allpic li{float:left;width:100%;position:relative;}
+.newx-pics-allshow .num{position:absolute;display:inline;right:1rem;bottom:0.3rem;width:auto;height:1.9rem;}
+.newx-pics-allshow .num span{display:inline-block;width:10px;height:10px;line-height:18px;overflow:hidden;margin-left:10px;color:#333;text-align:center;cursor:pointer;background-color:#ccc;border-radius:2.64em;-moz-border-radius:2.64em;-webkit-border-radius:2.64em;}
+.newx-pics-allshow .num span.on{color:#fff;background-color:#eb0000;}
+.newx-pics .prev{background: url(../images/newx-flash.png) no-repeat 0 0;left:20px;width:36px;cursor:pointer;text-indent:-9999px;position:absolute;top:152px;height:50px;overflow:hidden;}
+.newx-pics .next{background:url(../images/newx-flash.png) no-repeat -47px 0;width:36px;cursor:pointer;text-indent:-9999px;position:absolute;top:152px;right:10px;height:50px;overflow:hidden;}
+
+
+
+
